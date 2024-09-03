@@ -1,0 +1,13 @@
+//Nome: Gabriel Guedes Villela Crispim
+//RM: 95250
+//Turma: 3SIPG
+
+{
+  "nome": "João Victor",
+  "sobrenome": "Alves",
+  "cpf": "888888888",
+  "telefone": "11 95888-8822",
+  "renda": 15600.0,
+  "valorSolicitado": 9453.4,
+  "prazoParaPagamento": 13
+}
