@@ -17,6 +17,7 @@ A aplicação é uma API REST de cadastro de usuário e proposta para a realiza�
 - ``Lombok``
 
 ## Acesso ao projeto
+Você pode [acessar o código fonte do projeto](https://github.com/gabguedes/ms-proposta-emprestimo/tree/main) ou [baixá-lo](https://github.com/gabguedes/ms-proposta-emprestimo/archive/refs/heads/main.zip).
 
 ## Como rodar o projeto
 - Após baixar o projeto, você deve abrir com o IntelliJ ou outra IDE de sua preferência. 
